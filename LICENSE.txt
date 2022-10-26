@@ -1,0 +1,6 @@
+GNU GENERAL PUBLIC LICENSE
+v1.0
+31.08.2021
+Copyright (C) 2021 Pixel Wine Game Studio <https://pixelwinegamestudio.netlify.app/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
